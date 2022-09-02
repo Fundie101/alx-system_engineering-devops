@@ -1,1 +1,2 @@
-create my first directory in the tmp directory
+#!/bin/bash
+mkdir/tmp/my_first_directory
