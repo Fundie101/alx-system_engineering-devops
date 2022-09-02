@@ -1,1 +1,1 @@
-display content list of the current orking directory
+changing directory to user home directory
