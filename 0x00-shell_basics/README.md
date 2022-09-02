@@ -1,1 +1,1 @@
-display current working directory contents including hidden files
+display contents in digit only
