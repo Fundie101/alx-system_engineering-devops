@@ -1,1 +1,1 @@
-script that prints the absolute path of the working directory
+display content list of the current orking directory
