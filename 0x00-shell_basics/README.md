@@ -1,1 +1,1 @@
-creating a script that creates my first directory in the tmp directory
+move file betty from /tmp to /tmp my first directory
